@@ -2,4 +2,6 @@
 1. fetching
 
 ## 26/sep/2022
-1. Revise Fetching topic 
+1. Revise Fetching topic
+2. Authentication exercise
+
