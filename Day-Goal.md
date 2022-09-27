@@ -4,6 +4,7 @@
 2. complete useCallBack 
 3. revise Short redux project(song)
 4. <del>revise half Authentication and fetching - kent c Dodds</del>
-5. solve one problem from anywhere 
+5. <del>revise useReducer exercise and 2 extra point  that complete on 26/sep/2022</del>
+6. solve one problem from anywhere  
 
 
