@@ -12,3 +12,9 @@
 
 1. complete 27/sep/22 pending work - <del>solve useReducer extra credit</del> 
 2. <del>learn infinite scroll</del>
+
+# 29/sep/22
+
+1. complete userReducer
+2. complete useCallBack
+3. revise Short redux project(song)
