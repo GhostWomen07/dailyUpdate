@@ -8,3 +8,7 @@
 6. solve one problem from anywhere  
 
 
+# 28/sep/22
+
+1. complete 27/sep/22 pending work
+2. <del>learn infinite scroll</del>
