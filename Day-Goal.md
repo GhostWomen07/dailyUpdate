@@ -10,5 +10,5 @@
 
 # 28/sep/22
 
-1. complete 27/sep/22 pending work
+1. complete 27/sep/22 pending work - <del>solve useReducer extra credit</del> 
 2. <del>learn infinite scroll</del>
