@@ -15,6 +15,6 @@
 
 # 29/sep/22
 
-1. complete userReducer
+1. <del>complete userReducer</del>
 2. complete useCallBack
 3. revise Short redux project(song)
