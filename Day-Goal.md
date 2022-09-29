@@ -17,4 +17,5 @@
 
 1. <del>complete userReducer</del>  - <del>also revise useReducer</del>
 2. complete useCallBack
-3. revise Short redux project(song)
+3. <del>revise Short redux project(song)</del>
+   <del> create small song selected list project</del>
