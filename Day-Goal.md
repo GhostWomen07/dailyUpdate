@@ -26,3 +26,4 @@
 2. revise bookshelf (all done exercise)
 3. complete authentication module in bookshelf 
 4. revise infinte scrolling
+  
