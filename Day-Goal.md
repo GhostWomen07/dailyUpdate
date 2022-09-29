@@ -19,3 +19,10 @@
 2. complete useCallBack
 3. <del>revise Short redux project(song)</del>
    <del> create small song selected list project</del>
+
+# 30/sep/22
+
+1. useCallBack from nikhil in office 
+2. revise bookshelf (all done exercise)
+3. complete authentication module in bookshelf 
+4. revise infinte scrolling
