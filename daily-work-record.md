@@ -13,3 +13,11 @@
 ## 28/sep/2022
 1. learnt infinite scrolling - for office work
 2. solve useReducer extra credit-3
+
+# 29/sep/22
+
+1. complete userReducer - also revise useReducer
+2. complete useCallBack -try to understand this topic but it quite confusing tommorrow i will take the help of nikhil
+3. revise Short redux project(song)
+   create small song selected list project
+
