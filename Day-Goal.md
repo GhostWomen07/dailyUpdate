@@ -26,4 +26,15 @@
 2. revise bookshelf (all done exercise)
 3. complete authentication module in bookshelf 
 4. revise infinte scrolling
-  
+
+# 1/oct/22
+
+1. complete previous pending work & revise all
+2. complete routing part
+3. solve more practical questions 
+
+# 2/oct/22
+
+1. revise routing part 
+2. 
+ 
