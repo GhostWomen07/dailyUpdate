@@ -38,5 +38,5 @@
 
 1. revise routing part 
 2. solve practical questions
-3. take test 
+3. take practical test 
  
