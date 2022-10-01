@@ -36,7 +36,7 @@
 
 # 2/oct/22
 
-1. revise routing part 
+1. complete routing 
 2. solve practical questions
 3. take practical test 
  
