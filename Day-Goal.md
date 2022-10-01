@@ -29,9 +29,10 @@
 
 # 1/oct/22
 
-1. complete previous pending work & revise all
+1. <del>complete previous pending work & revise all</del>
 2. complete routing part
-3. solve more practical questions 
+3. <del>solve more practical questions</del>
+4. <del>revise bookshelf</del>
 
 # 2/oct/22
 
