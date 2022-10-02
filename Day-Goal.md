@@ -36,7 +36,7 @@
 
 # 2/oct/22
 
-1. complete routing 
+1. <del>complete routing </del>
 2. solve practical questions
 3. take practical test 
  
