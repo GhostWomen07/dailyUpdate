@@ -39,4 +39,8 @@
 1. <del>complete routing </del>
 2. solve practical questions
 3. take practical test 
+
+# 3/oct/22
+1. useCallBack
+2. revise routing and useReducer
  
