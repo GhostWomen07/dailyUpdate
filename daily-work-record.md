@@ -21,3 +21,11 @@
 3. revise Short redux project(song)
    create small song selected list project
 
+# 2/oct/22
+1. revise bookshelf
+2. routing
+
+# 3/oct/22
+1. revise useReducer
+2. revise data fetching, Authentication exercise
+3. callback exercise 
