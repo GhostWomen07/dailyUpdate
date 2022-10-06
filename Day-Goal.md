@@ -43,4 +43,17 @@
 # 3/oct/22
 1. useCallBack
 2. revise routing and useReducer
+
+# 9/10/22:- 
+1. study 6 hours or 7 hours 
+2. Revise all complete (routing tak) bookself from starting and also revise usereducer, usecallback, usestate, useeffect
+3. solve one problem of leet code given by nikhil
+4. start class component side by side
+5. update git daily chekin sheet 
+          
+# 10/10/22:- 
+1. solve one issue of leetcode
+2. start cache topic of bookshelf 
+3. revise routing authentication at office if i have free time
+4. study class component 
  
