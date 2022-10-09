@@ -57,5 +57,10 @@
 3. revise routing authentication at office if i have free time
 4. study class component
 
+# 10/10/22 
+1. Revise all complete (routing tak) bookself from starting 
+2. also revise usereducer, usecallback, usestate, useeffect
+3. solve one problem of leet code given by nikhil
+4. start class component side by side
 
  
