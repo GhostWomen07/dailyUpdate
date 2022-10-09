@@ -1,2 +1,0 @@
-# dailyUpdate
-daily study updates
