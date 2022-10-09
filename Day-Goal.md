@@ -55,5 +55,8 @@
 1. solve one issue of leetcode
 2. start cache topic of bookshelf 
 3. revise routing authentication at office if i have free time
-4. study class component 
+4. study class component
+
+# 10/Oct to 15/Oct/2022
+
  
