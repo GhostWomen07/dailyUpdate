@@ -30,6 +30,7 @@
 2. revise data fetching, Authentication exercise
 3. callback exercise 
 
+# 10/10/22
 1. Revise  
    -> Fetching
    -> Authentication
