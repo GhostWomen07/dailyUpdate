@@ -63,7 +63,7 @@
    -> Authentication
    ->Routing</del>
 3. also revise <del>usereducer, usecallback, usestate,</del> useeffect
-4. solve one problem of leet code given by nikhil
+4. <del>solve one problem of leet code given by nikhil</del> - its show runtime error in leetcode nut working fine in javascript compiler
 5. start class component side by side
 
  
