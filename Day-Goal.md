@@ -58,9 +58,10 @@
 4. study class component
 
 # 10/10/22 
-1. Revise all complete (routing tak) bookself from starting 
+1. <del>Revise all complete (routing tak) bookself from starting 
    -> Fetching
    -> Authentication
+   ->Routing</del>
 3. also revise <del>usereducer, usecallback, usestate,</del> useeffect
 4. solve one problem of leet code given by nikhil
 5. start class component side by side
