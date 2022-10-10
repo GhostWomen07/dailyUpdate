@@ -59,7 +59,7 @@
 
 # 10/10/22 
 1. Revise all complete (routing tak) bookself from starting 
-2. also revise usereducer, usecallback, usestate, useeffect
+2. also revise <del>usereducer, usecallback,</del> usestate, useeffect
 3. solve one problem of leet code given by nikhil
 4. start class component side by side
 
