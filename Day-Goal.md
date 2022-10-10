@@ -66,4 +66,7 @@
 4. <del>solve one problem of leet code given by nikhil</del> - its show runtime error in leetcode nut working fine in javascript compiler
 5. start class component side by side
 
- 
+ # 11/10/22
+ 1. Revise Routing, useEffect, class component Life cycle
+ 2. Start Caching
+ 3. solve one problem of leet code
