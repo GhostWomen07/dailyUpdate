@@ -29,3 +29,11 @@
 1. revise useReducer
 2. revise data fetching, Authentication exercise
 3. callback exercise 
+
+1. Revise  
+   -> Fetching
+   -> Authentication
+   ->Routing<
+2. also revise usereducer, usecallback, usestate
+3. solve one problem of leet code 
+
