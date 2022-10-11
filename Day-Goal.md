@@ -82,7 +82,7 @@
 1. Cache Management
 
 ## leet code 
-1. solve one question
+1. solve two question
 
 ## class component
 
