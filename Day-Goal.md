@@ -68,5 +68,5 @@
 
  # 11/10/22
  1. Revise Routing, <del>useEffect</del>, class component Life cycle
- 2. Start Caching
+ 2. <del>Start Caching</del>
  3. solve one problem of leet code
