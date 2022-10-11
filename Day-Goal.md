@@ -70,3 +70,26 @@
  1. Revise Routing, <del>useEffect</del>, class component Life cycle
  2. <del>Start Caching</del>
  3. solve one problem of leet code
+
+# 12/10/22
+## Revision
+1. Routing
+2. useCallBack
+3. useState
+4. Authentication
+
+## BookShelf
+1. Cache Management
+
+## leet code 
+1. solve one question
+
+## class component
+
+### React has four built-in methods that gets called, in this order, when mounting a component:
+### just Read about this at free time
+1. constructor()
+2. getDerivedStateFromProps()
+3. render()
+4. componentDidMount()
+
