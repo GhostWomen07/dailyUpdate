@@ -67,6 +67,6 @@
 5. start class component side by side
 
  # 11/10/22
- 1. Revise Routing, useEffect, class component Life cycle
+ 1. Revise Routing, <del>useEffect</del>, class component Life cycle
  2. Start Caching
  3. solve one problem of leet code
