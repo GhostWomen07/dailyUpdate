@@ -75,7 +75,7 @@
 ## Revision
 1. Routing
 2. useCallBack
-3. useState
+3. useEffect
 4. Authentication
 
 ## BookShelf
