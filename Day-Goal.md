@@ -74,8 +74,8 @@
 # 12/10/22
 ## Revision
 1. Routing
-2. useCallBack
-3. useEffect
+2.<del>useCallBack</del>
+3. <del>useEffect</del>
 4. Authentication
 
 ## BookShelf
