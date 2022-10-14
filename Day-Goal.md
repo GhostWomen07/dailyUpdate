@@ -76,7 +76,7 @@
 1. Routing
 2. <del>useCallBack</del>
 3. <del>useEffect</del>
-4. Authentication
+4. <del>Authentication</del>
 
 ## BookShelf
 1. Cache Management
