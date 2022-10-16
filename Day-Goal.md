@@ -94,17 +94,39 @@
 4. componentDidMount()
 
 # 16/10/22
+
 ## Revision
 1. <del>useReducer</del>
 2. <del>useCallBack</del>
 3. <del>useEffect</del>
-4.  <del>Authentication</del>
+4. <del>Authentication</del>
 
 ## BookShelf
 1. <del>Cache Management- Half </del>
 
 ## leet code 
 1. solve two question
+
+# 17/10/22
+
+## Cache Management
+1. Make hooks
+2. Wrap the App in a ReactQueryConfigProvider
+3. Handle mutation errors properly
+4. Add a loading spinner for the notes
+
+## leetcode 
+1. Two sum -> 3-4 solution
+2. Palindrome number
+
+## class component
+### React has four built-in methods that gets called, in this order, when mounting a component:
+### just Read about this at free time
+1. constructor()
+2. getDerivedStateFromProps()
+3. render()
+4. componentDidMount()
+
 
 
 
