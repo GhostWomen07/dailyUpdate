@@ -93,3 +93,18 @@
 3. render()
 4. componentDidMount()
 
+# 16/10/22
+## Revision
+1. <del>useReducer</del>
+2. <del>useCallBack</del>
+3. <del>useEffect</del>
+4.  <del>Authentication</del>
+
+## BookShelf
+1. Cache Management- Half 
+
+## leet code 
+1. solve two question
+
+
+
