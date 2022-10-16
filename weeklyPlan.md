@@ -23,3 +23,37 @@
  
  Practical Study material:- LeetCode
 
+# 2 Week (17/oct to 23/oct/2022)
+
+## Cache Management
+1. Make hooks
+2. Wrap the App in a ReactQueryConfigProvider
+3. Handle mutation errors properly
+4. Add a loading spinner for the notes
+5. Prefetch the book search query
+6. Add books to the query cache
+7. Add optimistic updates and recovery
+
+## Context
+1. create a useAuth hook
+2. create an AuthProvider component
+3. colocate global providers
+4. create a useClient hook
+
+##  Advanced React Hooks - useContext
+1. create a consumer hook
+2. caching in a context provider
+
+## leetcode (2-4 solution)
+1. Two sum 
+2. Palindrome number
+3. Roman to integer
+4. Longest Common Prefix
+5. Valid Parenthesses
+6. Merge Two sorted Lists
+7. Remove Duplicates & Sorted array
+8. Remove Element
+9. Search insert Position
+10. Length of Last word
+
+## Class Compopnent Basic 
