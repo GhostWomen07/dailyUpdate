@@ -101,7 +101,7 @@
 4.  <del>Authentication</del>
 
 ## BookShelf
-1. Cache Management- Half 
+1. <del>Cache Management- Half </del>
 
 ## leet code 
 1. solve two question
