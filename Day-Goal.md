@@ -116,8 +116,8 @@
 4. Add a loading spinner for the notes
 
 ## leetcode 
-1. Two sum -> 3-4 solution
-2. Palindrome number
+1. <del>Two sum -> 3-4 solution</del>
+2. <del>Palindrome number</del>
 
 ## class component
 ### React has four built-in methods that gets called, in this order, when mounting a component:
