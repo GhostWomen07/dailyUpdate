@@ -116,7 +116,7 @@
 4. Add a loading spinner for the notes
 
 ## leetcode 
-1. <del>Two sum -> 3-4 solution</del>
+1. <del>Two sum ->3-4 solution</del>
 2. <del>Palindrome number</del>
 
 ## class component
