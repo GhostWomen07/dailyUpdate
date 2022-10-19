@@ -45,8 +45,8 @@
 2. caching in a context provider
 
 ## leetcode (2-4 solution)
-1. Two sum 
-2. Palindrome number
+1. <del>Two sum </del> - 2 solution
+2. <del>Palindrome number</del> - 2 solution
 3. Roman to integer
 4. Longest Common Prefix
 5. Valid Parenthesses
