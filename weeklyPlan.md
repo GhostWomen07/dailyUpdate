@@ -41,7 +41,7 @@
 4. create a useClient hook
 
 ##  Advanced React Hooks - useContext
-1. create a consumer hook
+1. <del>create a consumer hook</del>
 2. caching in a context provider
 
 ## leetcode (2-4 solution)
