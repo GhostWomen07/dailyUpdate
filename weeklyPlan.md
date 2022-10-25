@@ -63,8 +63,7 @@ Review:- very bad week not complete even half of it
 # 3 Week (26/oct to 30/oct)
 
 ##  Advanced React Hooks - useContext
-1. <del>create a consumer hook</del>
-2. caching in a context provider
+1. caching in a context provider
 
 ## Cache Management
 1. Make hooks
