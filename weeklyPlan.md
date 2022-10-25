@@ -58,7 +58,7 @@
 
 ## Class Compopnent Basic 
 
-Review:- very bad week not complete even half of it
+## Review:- very bad week not complete even half of it
 
 # 3 Week (26/oct to 30/oct)
 
