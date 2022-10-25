@@ -57,3 +57,35 @@
 10. Length of Last word
 
 ## Class Compopnent Basic 
+
+Review:- very bad week not complete even half of it
+
+# 3 Week (26/oct to 30/oct)
+
+##  Advanced React Hooks - useContext
+1. <del>create a consumer hook</del>
+2. caching in a context provider
+
+## Cache Management
+1. Make hooks
+2. Wrap the App in a ReactQueryConfigProvider
+3. Handle mutation errors properly
+4. Add a loading spinner for the notes
+5. Prefetch the book search query
+6. Add books to the query cache
+7. Add optimistic updates and recovery
+
+## Context
+1. create a useAuth hook
+2. create an AuthProvider component
+3. colocate global providers
+4. create a useClient hook
+
+## leetcode (2-4 solution)
+1. Roman to integer
+2. Longest Common Prefix
+3. Valid Parenthesses
+
+
+
+
