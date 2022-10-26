@@ -63,7 +63,7 @@
 # 3 Week (26/oct to 30/oct)
 
 ##  Advanced React Hooks - useContext
-1. caching in a context provider
+1. <del>caching in a context provider</del>
 
 ## Cache Management
 1. Make hooks
