@@ -66,7 +66,7 @@
 1. <del>caching in a context provider</del>
 
 ## Cache Management
-1. Make hooks
+1. <del>Make hooks</del>
 2. Wrap the App in a ReactQueryConfigProvider
 3. Handle mutation errors properly
 4. Add a loading spinner for the notes
