@@ -83,7 +83,7 @@
 ## leetcode (2-4 solution)
 1. Roman to integer
 2. <del>Longest Common Prefix</del>
-3. <del>Valid Parenthesses</del>
+3.Valid Parenthesses
 
 
 
