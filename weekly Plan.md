@@ -5,3 +5,7 @@
 3. Integer Reversal
 
 ### Project
+1. Types Around Props and State
+2. Types Around Events and Refs
+3. Typescript with Redux
+
