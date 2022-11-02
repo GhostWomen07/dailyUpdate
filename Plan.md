@@ -1,8 +1,8 @@
 # Define a clear Goal
-### I will complete React with Typescript course and Study Data structure 
+⋅⋅* I will complete React with Typescript course and Study Data structure 
 
 # Are you commited to this?
-### With this course I will learnt react and typescript and become a best react developer who will do anything in react programming world.
+⋅⋅* With this course I will learnt react and typescript and become a best react developer who will do anything in react programming world.
 I will also get the best job with this course
 
 ### Data structure will help me in programming world and make my mind sharp. I am also able to solve problems more quickly and more effectively.
@@ -13,7 +13,7 @@ I will also get the best job with this course
 2. The Coding Interview Bootcamp: Algorithms + Data Structures
 
 # Estimate Time Required to achieve Goal
- write after calculation
+⋅⋅* write after calculation
 
 # Set Deadlines and Milestones
 ### Structure
