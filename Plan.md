@@ -14,6 +14,7 @@ I will also get the best job with this course
 
 # Estimate Time Required to achieve Goal
 ⋅⋅* write after calculation
+⋅⋅* Unordered sub-list. 
 
 # Set Deadlines and Milestones
 ### Structure
