@@ -1,3 +1,3 @@
-# 01/Nov/2022
+#12/Nov/2022
 
-1. Create Error-Boundary for YouDera Project
+Complete basic of React and Typescript project
