@@ -1,5 +1,5 @@
 # Define a clear Goal
-- I will complete React with Typescript course and Study Data structure 
+- I will complete React with Typescript course and Study Data structure - right now only focus on react with typescript
 
 # Are you commited to this?
 - With this course I will learnt react and typescript and become a best react developer who will do anything in react programming world.
