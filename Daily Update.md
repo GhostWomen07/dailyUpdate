@@ -15,3 +15,11 @@ Complete basic of React and Typescript project
 4. Behind the scenes with webpack
 5. webpack with ES Modules
 6. one small change
+
+#18/11/22
+
+1)Create form in which all important fields are used and after that its value store in array of object
+2)Used Validation in it
+
+### Revise all Basic React Topic
+
