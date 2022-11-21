@@ -23,3 +23,9 @@ Complete basic of React and Typescript project
 
 ### Revise all Basic React Topic
 
+#19/11/22 and #20/11/22
+
+## Complete Todo list Project
+
+#21/11/22
+
