@@ -31,3 +31,6 @@ Complete basic of React and Typescript project
 
 ## Build and Deploy a Google Maps Travel Companion Application | React.js
 
+#22/11/22
+## Next.js
+## next-intl
